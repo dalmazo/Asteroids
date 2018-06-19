@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: InGameAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 883e63143700d4458ad3551a0a34b50b, type: 3}
+    - {fileID: 102900000, guid: d62051c9ad12b4f9091b1d831b86713d, type: 3}
+    - {fileID: 102900000, guid: cb7a0d47143a6447f9b324857a72446e, type: 3}
+    - {fileID: 102900000, guid: 994d8132b651d409d949064159b7114d, type: 3}
+    - {fileID: 102900000, guid: 660a4fc041fad46dcb8fd637620d12dc, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b4586c54ad5dc433682a9cabfa338676, type: 3}
+  - {fileID: 21300000, guid: d9db6541b466549eda2f135443874dcb, type: 3}
+  - {fileID: 21300000, guid: b989c3561ef2b49019fb3026af5f85d5, type: 3}
+  - {fileID: 21300000, guid: 2f5a493b254de4f20a6f345ba0d650c9, type: 3}
+  - {fileID: 21300000, guid: 101929b24a90a4d77a7f72d4fda76382, type: 3}
+  - {fileID: 21300000, guid: d6e4a6199c86a4970a734f12c4c00619, type: 3}
+  - {fileID: 21300000, guid: 91f36883d53dd427baf0219921dc8eb3, type: 3}
+  - {fileID: 21300000, guid: ce95c1d672b484d8d91ad52928a84357, type: 3}
+  - {fileID: 21300000, guid: e2ec94aabe28f45ec864c4c8e62fdb08, type: 3}
+  - {fileID: 21300000, guid: ac7eb6e22d0af4169822a8db71d9ae17, type: 3}
+  - {fileID: 21300000, guid: 36db41f273bc54270b8adab1925e1b94, type: 3}
+  - {fileID: 21300000, guid: 9159a892a96974fa1be952bc38471265, type: 3}
+  - {fileID: 21300000, guid: dc1fd566134664b98b4d76c1b96e918d, type: 3}
+  - {fileID: 21300000, guid: 7339a9c437db14bf8a9ce6bb6634d0d3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - meteorBrown_big1
+  - ufoRed
+  - ufoBlue
+  - ufoGreen
+  - ufoYellow
+  - playerShip3_blue
+  - playerShip3_green
+  - playerShip3_red
+  - playerShip3_orange
+  - meteorBrown_med1
+  - meteorBrown_small1
+  - laserBlue01
+  - laserRed02
+  - fire02
+  m_Tag: InGameAtlas
+  m_IsVariant: 0

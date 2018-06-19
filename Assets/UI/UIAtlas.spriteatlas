@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a45128d51de964a3eb0d6cb99e1691e9, type: 3}
+    - {fileID: 2800000, guid: 77a8843703a9145988c6bdd2beb604f8, type: 3}
+    - {fileID: 2800000, guid: b3475162a99734dd1946cbe36eded800, type: 3}
+    - {fileID: 2800000, guid: 9b9499a8998f644d593619409292f105, type: 3}
+    - {fileID: 2800000, guid: 4c1975d7ab2b54d9f9cd7b24250b78b0, type: 3}
+    - {fileID: 2800000, guid: 050b2122a8872416ea17418a269c3e19, type: 3}
+    - {fileID: 102900000, guid: adcecb019bbdf411090a2f658a60b7ee, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a45128d51de964a3eb0d6cb99e1691e9, type: 3}
+  - {fileID: 21300000, guid: 77a8843703a9145988c6bdd2beb604f8, type: 3}
+  - {fileID: 21300000, guid: 9b9499a8998f644d593619409292f105, type: 3}
+  - {fileID: 21300000, guid: b3475162a99734dd1946cbe36eded800, type: 3}
+  - {fileID: 21300000, guid: 050b2122a8872416ea17418a269c3e19, type: 3}
+  - {fileID: 21300000, guid: 4c1975d7ab2b54d9f9cd7b24250b78b0, type: 3}
+  - {fileID: 21300000, guid: 0d67bbe80e89044409036ccbd3b0da3c, type: 3}
+  - {fileID: 21300000, guid: c5ff06ee2f11342499b1f57131d1cc7e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - buttonYellow
+  - cursor
+  - playerLife3_green
+  - playerLife3_blue
+  - playerLife3_red
+  - playerLife3_orange
+  - laserBlue14Sliced
+  - laserBlue12Sliced
+  m_Tag: UIAtlas
+  m_IsVariant: 0
